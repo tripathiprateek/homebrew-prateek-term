@@ -1,6 +1,6 @@
 cask "prateek-term@rc" do
-  version "1.5.0-rc.1"
-  sha256 "8332a6281a2d52738c107dbaf64d27d4c763d769b3e9311b05bd36822f4e69f9"
+  version "1.5.0-rc.2"
+  sha256 "f20c04f95b4efbfb582b2c7ed58a2932b60f88082d71e0d4c383011433b3a93b"
 
   url "https://github.com/tripathiprateek/prateek-term/releases/download/v#{version}/Prateek-Term-#{version}-arm64.zip"
   name "Prateek-Term (Release Candidate)"
