@@ -1,6 +1,6 @@
 cask "prateek-term@rc" do
   version "1.5.0-rc.1"
-  sha256 :no_check # replaced by CI on each release
+  sha256 "8332a6281a2d52738c107dbaf64d27d4c763d769b3e9311b05bd36822f4e69f9"
 
   url "https://github.com/tripathiprateek/prateek-term/releases/download/v#{version}/Prateek-Term-#{version}-arm64.zip"
   name "Prateek-Term (Release Candidate)"
